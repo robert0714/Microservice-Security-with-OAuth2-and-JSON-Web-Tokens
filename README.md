@@ -61,3 +61,15 @@ https://mydevgeek.com/spring-boot-docker/
 
 
 ./gradlew buildDocker
+
+Funtional Test Cases
+
+## Katalon
+
+A new replacement for Selenium IDE
+
+* [Katalon](https://www.katalon.com)
+
+The script in this directory are used to perform some basic functional testing on the JBCP Calendar.
+
+## the end... ##
